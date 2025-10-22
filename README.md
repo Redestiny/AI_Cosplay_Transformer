@@ -1,4 +1,4 @@
-# InstantID 全身 Cosplay 化 — 项目功能蓝图与数据流
+#  InstantID-based cosplay transformation system — 项目功能蓝图与数据流
 
 > 文档概览：基于 InstantID 的“真人→二次元全身风格迁移”产品蓝图，包含功能清单、模块关系图、端到端数据流、部署架构、非功能性需求、里程碑与风险对策，便于产品/技术团队对接执行。
 
